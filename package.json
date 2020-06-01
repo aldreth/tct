@@ -1,0 +1,15 @@
+{
+  "name": "tct",
+  "version": "1.0.0",
+  "description": "A wrapper for tiny care terminal - https://github.com/notwaldorf/tiny-care-terminal",
+  "scripts": {
+    "start": "tiny-care-terminal",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-gyp": "^5.1.1",
+    "tiny-care-terminal": "^1.8.0"
+  }
+}
